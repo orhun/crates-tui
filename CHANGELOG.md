@@ -7,6 +7,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.6](https://github.com/ratatui-org/crates-tui/compare/v0.1.5...v0.1.6) - 2024-02-09
+
+### Added
+- Increase spacing between top and bottom in summary
+
 ## [0.1.5](https://github.com/ratatui-org/crates-tui/compare/v0.1.4...v0.1.5) - 2024-02-09
 
 ### Added
